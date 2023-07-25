@@ -8,11 +8,16 @@
    <li>JS</li>
  </ul>
 </section>
+<section>
+ <h3>I enjoy:</h3>
+ <ul>
+  <li>Gaming</li>
+  <li>Cooking</li>
+  <li>Tenis</li>
+  <li>Walking</li>
+  <li>And more...</li>
+ </ul>
+</section>
+<h3>You can reach me at:</h3>
+<a href="https://www.instagram.com/weunhed/">Instagram</a>
 
-
-
-- 👋 Hi, I’m @weunhed
-- 👀 I’m interested in anything really 
-- 🌱 I’m currently learning front end web development!!
-- 💞️ I’m looking to collaborate on I don't know
-- 📫 How to reach me, you can't
